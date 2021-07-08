@@ -1,9 +1,11 @@
 # Welcome!
 
 This Python template lets you get started quickly with a simple one-page playground.
+這是一個有小缺點的程式，請修改成可以正確執行！
+
 
 ```python runnable
-print('Hello World!')
+print('hi
 ```
 
 # Advanced usage
